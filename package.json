@@ -1,0 +1,23 @@
+{
+  "name": "beckspace2.0_",
+  "version": "1.0.0",
+  "description": "Second version of my website",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickbeck/beckspace2.0_.git"
+  },
+  "author": "Michael Beckett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickbeck/beckspace2.0_/issues"
+  },
+  "homepage": "https://github.com/mickbeck/beckspace2.0_#readme"
+}
